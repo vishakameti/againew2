@@ -17,5 +17,4 @@ public class acccons {
          } 
           
      }
-     public void test2(){}
 }
