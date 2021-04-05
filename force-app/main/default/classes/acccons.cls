@@ -13,8 +13,10 @@ public class acccons {
             this.accmap.put(acc, acc.Contacts);     
               }
          
-         system.debug('vishak');
+         
          } 
           
      }
+
+     public void test2(){}
 }
